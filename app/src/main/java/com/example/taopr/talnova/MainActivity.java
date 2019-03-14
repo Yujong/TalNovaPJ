@@ -10,8 +10,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        // @iamrae getting started
-        // @iamrae second try
-        
+        // is this really working? (17:44)
     }
 }
